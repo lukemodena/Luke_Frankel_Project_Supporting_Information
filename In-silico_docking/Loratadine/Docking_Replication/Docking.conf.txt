@@ -1,0 +1,13 @@
+receptor = Docking.receptor.pdbqt
+ligand = Docking.ligand.pdbqt
+
+center_x = -25.08
+center_y = 5.70
+center_z = 18.90
+size_x = 28.19
+size_y = 39.78
+size_z = 29.44
+
+energy_range = 3
+exhaustiveness = 8
+num_modes = 9
